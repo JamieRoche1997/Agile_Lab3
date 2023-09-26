@@ -4,4 +4,4 @@ This is the first edit I have made to the file.
 
 This is the second edit to the file and the third commit.
 
-Change added in the dazzling_feature branch.
+Change added in the dazzling_feature to provoke conflict.
