@@ -1,7 +1,5 @@
 This is the readme file for the tutorial repository.
 
-Editing the file.
-
 This is the first edit I have made to the file.
 
 This is the second edit to the file and the third commit.
